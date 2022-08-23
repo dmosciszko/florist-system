@@ -1,0 +1,13 @@
+HOME PAGE
+https://web.njit.edu/~dm634/florist_home.php
+SHOULD NOT BE ABLE TO ACCESS THE FOLLOWING LINKS UNLESS LOGGED IN 
+SEARCH RECORDS
+https://web.njit.edu/~dm634/florist_search_records.php
+UPDATE ORDER
+https://web.njit.edu/~dm634/florist_update_order.php
+PLACE ORDER
+https://web.njit.edu/~dm634/florist_place_order.php
+CANCEL ORDER
+https://web.njit.edu/~dm634/florist_cancel_order.php
+CREATE CUSTOMER ACCOUNT
+https://web.njit.edu/~dm634/creat_cust_acc.php
